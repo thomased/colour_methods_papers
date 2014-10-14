@@ -10,6 +10,8 @@ Backhaus 1991, [Color opponent coding in the visual system of the honeybee](dx.d
 
 Backhaus & Menzel 1987, [Color distance derived from a receptor model of color vision in the honeybee](dx.doi.org/10.1007/BF02281978)
 
+Barnard & Funt 2002, [Camera characterization for color research](dx.doi.org/10.1002/col.10050)
+
 Bennett et al. 1994, [Sexual selection and the mismeasure of color](dx.doi.org/10.1086/285711)
 
 Burnham et al. 1957, [Prediction of color appearance with different adaptation illuminations](dx.doi.org/10.1364/JOSA.47.000035)
@@ -36,6 +38,8 @@ Endler & Mielke 2005, [Comparing entire colour patterns as birds see them](dx.do
 
 Garcia et al. 2014, [Flower colours through the lens: quantitative measurement with visible and ultraviolet digital photography](dx.doi.org/10.1371/journal.pone.0096646)
 
+Gerald et al. 2001 [Formal method for objective assessment of primate color](http://onlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au/doi/10.1002/1098-2345%28200102%2953:2%3C79::AID-AJP3%3E3.0.CO;2-N/abstract)
+
 Grill & Rush 2000, [Analysing spectral data: comparison and application of two techniques](dx.doi.org/10.1006/bij1.1999.0360)
 
 Govardovskii et al. 2000, [In search of the visual pigment template](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=55091&fileId=S0952523800174036)
@@ -59,6 +63,8 @@ Kelber 2001, [Receptor based models for spontaneous colour choices in flies and 
 Kelber et al. 2003, [Animal colour vision: behavioural tests and physiological concepts](dx.doi.org/10.1017}S1464793102005985)
 
 Kelber & Osorio 2009, [From spectral information to animal colour vision: experiments and concepts](dx.doi.org/10.1098/rspb.2009.2118)
+
+Lehnert et al. 2011, [A new method for quantifying color of insects](dx.doi.org/10.1653/024.094.0212)
 
 Lind & Kelber 2009, [Avian colour vision: effects of variation in receptor sensitivity and noise data on model predictions as compared to behavioural results](dx.doi.org/10.1016/j.visres.2009.05.003)
 
@@ -88,11 +94,15 @@ Stoddard & Stevens 2010, [Avian vision and the evolution of egg color mimicry in
 
 Stoddard et al. 2014, [Pattern recognition algorithm reveals how birds evolve individual egg pattern signatures](dx.doi.org/10.1038/ncomms5117)
 
+Stokman et al. 2000, [Color measurement by imaging spectrometry](dx.doi.org/10.1006/cviu.2000.0860)
+
 Strachan et al. 1990, [Calibration of a video camera digitising system in the CIE (L*u*v) colour space](dx.doi.org/10.1016/0167-8655(90)90096-K)
 
 Taylor et al. 2013, [Distance transform: a tool for the study of animal colour patterns](dx.doi.org/10.1111/2041-210X.12063)
 
 van Hateren 1993, [Spatial, temporal and spectral pre-processing for colour vision](dx.doi.org/10.1098/rspb.1993.0009)
+
+Villafuerte & Negro 2002, [Digital imaging for colour measurement in ecological research](dx.doi.org/10.1046/j.1461-0248.1998.00034.x)
 
 Vorobyev 2003, [Coloured oil droplets enhance colour discrimination](dx.doi.org/10.1098/rspb.2003.2381)
 
@@ -105,3 +115,5 @@ Vorobyev et al. 2001, [Colour thresholds and receptor noise: behaviour and physi
 Vukusic & Stavenga 2009, [Physical methods for investigating structural colours in biological systems](dx.doi.org/10.1098/rsif.2008.0386.focus)
 
 Wachtler et al. 2004, [Modeling color percepts of dichromats](dx.doi.org/10.1016/j.visres.2004.06.016)
+
+Zuk & Decruyenaere 2008, [Measuring individual variation in colour: a comparison of two techniques](dx.doi.org/10.1111/j.1095-8312.1994.tb01007.x)
