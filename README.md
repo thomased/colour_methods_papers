@@ -46,6 +46,8 @@ Govardovskii et al. 2000, [In search of the visual pigment template](http://jour
 
 Hart & Vorobyev 2005, [Modelling oil droplet absorption spectra and spectral sensitivities of bird cone photoreceptors](http://dx.doi.org/10.1007/s00359-004-0595-3)
 
+Higham et al 2010, [Color signal information content and the eye of the beholder: a case study in the rhesus macaque](http://dx.doi.org/10.1093/beheco/arq047)
+
 Hurvich & Jameson 1955, [Some quantitative aspects of an opponent-colors theory. II. Brightness, saturation, and hue in normal and dichromatic vision](http://dx.doi.org/10.1364/JOSA.45.000602)
 
 Hurvich & Jameson 1956, [Some quantitative aspects of an opponent-colors theory. IV. A psychological color specification system](http://dx.doi.org/10.1364/JOSA.46.000416)
