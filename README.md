@@ -44,76 +44,76 @@ Grill & Rush 2000, [Analysing spectral data: comparison and application of two t
 
 Govardovskii et al. 2000, [In search of the visual pigment template](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=55091&fileId=S0952523800174036)
 
-Hart & Vorobyev 2005, [Modelling oil droplet absorption spectra and spectral sensitivities of bird cone photoreceptors](dx.doi.org/10.1007/s00359-004-0595-3)
+Hart & Vorobyev 2005, [Modelling oil droplet absorption spectra and spectral sensitivities of bird cone photoreceptors](http://dx.doi.org/10.1007/s00359-004-0595-3)
 
-Hurvich & Jameson 1955, [Some quantitative aspects of an opponent-colors theory. II. Brightness, saturation, and hue in normal and dichromatic vision](dx.doi.org/10.1364/JOSA.45.000602)
+Hurvich & Jameson 1955, [Some quantitative aspects of an opponent-colors theory. II. Brightness, saturation, and hue in normal and dichromatic vision](http://dx.doi.org/10.1364/JOSA.45.000602)
 
-Hurvich & Jameson 1956, [Some quantitative aspects of an opponent-colors theory. IV. A psychological color specification system](dx.doi.org/10.1364/JOSA.46.000416)
+Hurvich & Jameson 1956, [Some quantitative aspects of an opponent-colors theory. IV. A psychological color specification system](http://dx.doi.org/10.1364/JOSA.46.000416)
 
-Jameson & Hurvich 1955, [Some quantitative aspects of an opponent-colors theory. I. Chromatic responses and spectral saturation](dx.doi.org/10.1364/JOSA.45.000546)
+Jameson & Hurvich 1955, [Some quantitative aspects of an opponent-colors theory. I. Chromatic responses and spectral saturation](http://dx.doi.org/10.1364/JOSA.45.000546)
 
-Jameson & Hurvich 1956, [Some quantitative aspects of an opponent-colors theory. III. Changes in brightness, saturation, and hue with chromatic adaptation](dx.doi.org/10.1364/JOSA.46.000405)
+Jameson & Hurvich 1956, [Some quantitative aspects of an opponent-colors theory. III. Changes in brightness, saturation, and hue with chromatic adaptation](http://dx.doi.org/10.1364/JOSA.46.000405)
 
-Jameson & Hurvich 1964, [Theory of brightness and color contrast in human vision](dx.doi.org/10.1016/0042-6989(64)90037-9)
+Jameson & Hurvich 1964, [Theory of brightness and color contrast in human vision](http://dx.doi.org/10.1016/0042-6989(64)90037-9)
 
 Kelber 1999, [Ovipositing butterflies use a red receptor to see green](http://jeb.biologists.org/content/202/19/2619)
 
-Kelber 2001, [Receptor based models for spontaneous colour choices in flies and butterflies](dx.doi.org/10.1046/j.1570-7458.2001.00822.x)
+Kelber 2001, [Receptor based models for spontaneous colour choices in flies and butterflies](http://dx.doi.org/10.1046/j.1570-7458.2001.00822.x)
 
-Kelber et al. 2003, [Animal colour vision: behavioural tests and physiological concepts](dx.doi.org/10.1017}S1464793102005985)
+Kelber et al. 2003, [Animal colour vision: behavioural tests and physiological concepts](http://dx.doi.org/10.1017}S1464793102005985)
 
-Kelber & Osorio 2009, [From spectral information to animal colour vision: experiments and concepts](dx.doi.org/10.1098/rspb.2009.2118)
+Kelber & Osorio 2009, [From spectral information to animal colour vision: experiments and concepts](http://dx.doi.org/10.1098/rspb.2009.2118)
 
-Lehnert et al. 2011, [A new method for quantifying color of insects](dx.doi.org/10.1653/024.094.0212)
+Lehnert et al. 2011, [A new method for quantifying color of insects](http://dx.doi.org/10.1653/024.094.0212)
 
-Lind & Kelber 2009, [Avian colour vision: effects of variation in receptor sensitivity and noise data on model predictions as compared to behavioural results](dx.doi.org/10.1016/j.visres.2009.05.003)
+Lind & Kelber 2009, [Avian colour vision: effects of variation in receptor sensitivity and noise data on model predictions as compared to behavioural results](http://dx.doi.org/10.1016/j.visres.2009.05.003)
 
-Luo et al. 2001, [The development of the CIE 2000 colour-difference formula](dx.doi.org/10.1002/col.1049)
+Luo et al. 2001, [The development of the CIE 2000 colour-difference formula](http://dx.doi.org/10.1002/col.1049)
 
-Maia et al. 2012, [pavo: an R package for the analysis, visualization and organization of spectral data](dx.doi.org/10.1111/2041-210X.12069)
+Maia et al. 2012, [pavo: an R package for the analysis, visualization and organization of spectral data](http://dx.doi.org/10.1111/2041-210X.12069)
 
-Maloney & Wandell 1986, [Color constancy: a method for recovering surface spectral reflectance](dx.doi.org/10.1364/JOSAA.3.000029)
+Maloney & Wandell 1986, [Color constancy: a method for recovering surface spectral reflectance](http://dx.doi.org/10.1364/JOSAA.3.000029)
 
-McLaren 2008, [The development of the CIE 1976 (L* a* b*) uniform colour space and colour-difference formula](dx.doi.org/10.1111/j.1478-4408.1976.tb03301.x)
+McLaren 2008, [The development of the CIE 1976 (L* a* b*) uniform colour space and colour-difference formula](http://dx.doi.org/10.1111/j.1478-4408.1976.tb03301.x)
 
-Osorio et al. 2004, [Detection of fruit and the selection of primate visual pigments for color vision](dx.doi.org/10.1086/425332)
+Osorio et al. 2004, [Detection of fruit and the selection of primate visual pigments for color vision](http://dx.doi.org/10.1086/425332)
 
-Perex-Rodriguez et al. 2013, [Fractal geometry of a complex plumage trait reveals bird’s quality](dx.doi.org/10.1098/rspb.2012.2783)
+Perex-Rodriguez et al. 2013, [Fractal geometry of a complex plumage trait reveals bird’s quality](http://dx.doi.org/10.1098/rspb.2012.2783)
 
-Pike 2011, [Using digital cameras to investigate animal colouration: estimating sensor sensitivity functions](dx.doi.org/10.1007/s00265-010-1097-7)
+Pike 2011, [Using digital cameras to investigate animal colouration: estimating sensor sensitivity functions](http://dx.doi.org/10.1007/s00265-010-1097-7)
 
-Pike 2012, [Preserving perceptual distances in chromaticity diagrams](dx.doi.org/10.1093/beheco/ars018)
+Pike 2012, [Preserving perceptual distances in chromaticity diagrams](http://dx.doi.org/10.1093/beheco/ars018)
 
-Pike 2012, [Generalised chromaticity diagrams for animals with n-chromatic colour vision](dx.doi.org/10.1007/s10905-011-9296-2)
+Pike 2012, [Generalised chromaticity diagrams for animals with n-chromatic colour vision](http://dx.doi.org/10.1007/s10905-011-9296-2)
 
-Stevens et al. 2007, [Using digital photography to study animal coloration](dx.doi.org/10.1111/j.1095-8312.2007.00725.x)
+Stevens et al. 2007, [Using digital photography to study animal coloration](http://dx.doi.org/10.1111/j.1095-8312.2007.00725.x)
 
-Stoddard & Prum 2008, [Evolution of avian plumage color in a tetrahedral color space: a phylogenetic analysis of new world buntings](dx.doi.org/10.1086/587526)
+Stoddard & Prum 2008, [Evolution of avian plumage color in a tetrahedral color space: a phylogenetic analysis of new world buntings](http://dx.doi.org/10.1086/587526)
 
-Stoddard & Stevens 2010, [Avian vision and the evolution of egg color mimicry in the common cuckoo](dx.doi.org/10.1111/j.1558-5646.2011.01262.x)
+Stoddard & Stevens 2010, [Avian vision and the evolution of egg color mimicry in the common cuckoo](http://dx.doi.org/10.1111/j.1558-5646.2011.01262.x)
 
-Stoddard et al. 2014, [Pattern recognition algorithm reveals how birds evolve individual egg pattern signatures](dx.doi.org/10.1038/ncomms5117)
+Stoddard et al. 2014, [Pattern recognition algorithm reveals how birds evolve individual egg pattern signatures](http://dx.doi.org/10.1038/ncomms5117)
 
-Stokman et al. 2000, [Color measurement by imaging spectrometry](dx.doi.org/10.1006/cviu.2000.0860)
+Stokman et al. 2000, [Color measurement by imaging spectrometry](http://dx.doi.org/10.1006/cviu.2000.0860)
 
-Strachan et al. 1990, [Calibration of a video camera digitising system in the CIE (L*u*v) colour space](dx.doi.org/10.1016/0167-8655(90)90096-K)
+Strachan et al. 1990, [Calibration of a video camera digitising system in the CIE (L*u*v) colour space](http://dx.doi.org/10.1016/0167-8655(90)90096-K)
 
-Taylor et al. 2013, [Distance transform: a tool for the study of animal colour patterns](dx.doi.org/10.1111/2041-210X.12063)
+Taylor et al. 2013, [Distance transform: a tool for the study of animal colour patterns](http://dx.doi.org/10.1111/2041-210X.12063)
 
-van Hateren 1993, [Spatial, temporal and spectral pre-processing for colour vision](dx.doi.org/10.1098/rspb.1993.0009)
+van Hateren 1993, [Spatial, temporal and spectral pre-processing for colour vision](http://dx.doi.org/10.1098/rspb.1993.0009)
 
-Villafuerte & Negro 2002, [Digital imaging for colour measurement in ecological research](dx.doi.org/10.1046/j.1461-0248.1998.00034.x)
+Villafuerte & Negro 2002, [Digital imaging for colour measurement in ecological research](http://dx.doi.org/10.1046/j.1461-0248.1998.00034.x)
 
-Vorobyev 2003, [Coloured oil droplets enhance colour discrimination](dx.doi.org/10.1098/rspb.2003.2381)
+Vorobyev 2003, [Coloured oil droplets enhance colour discrimination](http://dx.doi.org/10.1098/rspb.2003.2381)
 
-Vorobyev & Osorio 1998, [Receptor noise as a determinant of colour thresholds](dx.doi.org/10.1098/rspb.1998.0302)
+Vorobyev & Osorio 1998, [Receptor noise as a determinant of colour thresholds](http://dx.doi.org/10.1098/rspb.1998.0302)
 
-Vorobyev et al. 1998, [Tetrachromacy, oil droplets and bird plumage colours](dx.doi.org/10.1007/s003590050286)
+Vorobyev et al. 1998, [Tetrachromacy, oil droplets and bird plumage colours](http://dx.doi.org/10.1007/s003590050286)
 
-Vorobyev et al. 2001, [Colour thresholds and receptor noise: behaviour and physiology compared](dx.doi.org/10.1016/S0042-6989(00)00288-1)
+Vorobyev et al. 2001, [Colour thresholds and receptor noise: behaviour and physiology compared](http://dx.doi.org/10.1016/S0042-6989(00)00288-1)
 
-Vukusic & Stavenga 2009, [Physical methods for investigating structural colours in biological systems](dx.doi.org/10.1098/rsif.2008.0386.focus)
+Vukusic & Stavenga 2009, [Physical methods for investigating structural colours in biological systems](http://dx.doi.org/10.1098/rsif.2008.0386.focus)
 
-Wachtler et al. 2004, [Modeling color percepts of dichromats](dx.doi.org/10.1016/j.visres.2004.06.016)
+Wachtler et al. 2004, [Modeling color percepts of dichromats](http://dx.doi.org/10.1016/j.visres.2004.06.016)
 
-Zuk & Decruyenaere 2008, [Measuring individual variation in colour: a comparison of two techniques](dx.doi.org/10.1111/j.1095-8312.1994.tb01007.x)
+Zuk & Decruyenaere 2008, [Measuring individual variation in colour: a comparison of two techniques](http://dx.doi.org/10.1111/j.1095-8312.1994.tb01007.x)
