@@ -2,45 +2,45 @@
 
 The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. Suggestions welcome via twitter (@tomedwhite, #colsci), email, pull request, etc. I'd love to dump pdf's of all these in a folder here but, you know, that's illegal. If you can't get hold of something, I can probably pass it along.
 
-Akkaynak 2014, [Use of spectroscopy for assessment of color discrimination in animal vision](dx.doi.org/10.1364/JOSAA.31.000A27)
+Akkaynak 2014, [Use of spectroscopy for assessment of color discrimination in animal vision](http://dx.doi.org/10.1364/JOSAA.31.000A27)
 
-Allen & Higham 2013, [Analysing visual signals as visual scenes](dx.doi.org/10.1002/ajp.22129)
+Allen & Higham 2013, [Analysing visual signals as visual scenes](http://dx.doi.org/10.1002/ajp.22129)
 
-Backhaus 1991, [Color opponent coding in the visual system of the honeybee](dx.doi.org/10.1016/0042-6989(91)90059-E)
+Backhaus 1991, [Color opponent coding in the visual system of the honeybee](http://dx.doi.org/10.1016/0042-6989(91)90059-E)
 
-Backhaus & Menzel 1987, [Color distance derived from a receptor model of color vision in the honeybee](dx.doi.org/10.1007/BF02281978)
+Backhaus & Menzel 1987, [Color distance derived from a receptor model of color vision in the honeybee](http://dx.doi.org/10.1007/BF02281978)
 
-Barnard & Funt 2002, [Camera characterization for color research](dx.doi.org/10.1002/col.10050)
+Barnard & Funt 2002, [Camera characterization for color research](http://dx.doi.org/10.1002/col.10050)
 
-Bennett et al. 1994, [Sexual selection and the mismeasure of color](dx.doi.org/10.1086/285711)
+Bennett et al. 1994, [Sexual selection and the mismeasure of color](http://dx.doi.org/10.1086/285711)
 
-Burnham et al. 1957, [Prediction of color appearance with different adaptation illuminations](dx.doi.org/10.1364/JOSA.47.000035)
+Burnham et al. 1957, [Prediction of color appearance with different adaptation illuminations](http://dx.doi.org/10.1364/JOSA.47.000035)
 
-Brandt & Vorobyev 1997, [Metric analysis of threshold spectral sensitivity in the honeybee](dx.doi.org/10.1016/S0042-6989(96)00195-2)
+Brandt & Vorobyev 1997, [Metric analysis of threshold spectral sensitivity in the honeybee](http://dx.doi.org/10.1016/S0042-6989(96)00195-2)
 
-Chittka 1992, [The colour hexagon: a chromaticity diagram based on photoreceptor excitations as a generalized representation of colour opponency](dx.doi.org/10.1007/BF00199331)
+Chittka 1992, [The colour hexagon: a chromaticity diagram based on photoreceptor excitations as a generalized representation of colour opponency](http://dx.doi.org/10.1007/BF00199331)
 
-Chittka et al. 1992, [Opponent color coding is a universal strategy to evaluate the photoreceptor inputs in Hymenoptera](dx.doi.org/10.1007/BF00199332)
+Chittka et al. 1992, [Opponent color coding is a universal strategy to evaluate the photoreceptor inputs in Hymenoptera](http://dx.doi.org/10.1007/BF00199332)
 
-Chiao et al. 2009, [Visualization of the spatial and spectral signals of orb-weaving spiders, Nephila pilipes, through the eyes of a honeybee](jeb.biologists.org/content/212/14/2269.abstract)
+Chiao et al. 2009, [Visualization of the spatial and spectral signals of orb-weaving spiders, Nephila pilipes, through the eyes of a honeybee](http://jeb.biologists.org/content/212/14/2269.abstract)
 
 Dartnall 1953, [The interpretation of spectral sensitivity curves](http://bmb.oxfordjournals.org/content/9/1/24.extract)
 
-De Valois & De Valois 1993, [A multi-stage color model](dx.doi.org/10.1016/0042-6989(93)90240-W)
+De Valois & De Valois 1993, [A multi-stage color model](http://dx.doi.org/10.1016/0042-6989(93)90240-W)
 
-Dyer 2012, [The mysterious cognitive abilities of bees: why models of visual processing need to consider experience and individual differences in animal performance](dx.doi.org/10.1242/jeb.038190)
+Dyer 2012, [The mysterious cognitive abilities of bees: why models of visual processing need to consider experience and individual differences in animal performance](http://dx.doi.org/10.1242/jeb.038190)
 
-Endler 1989, [On the measurement and classification of colour in studies of animal colour patterns](dx.doi.org/10.1111/j.1095-8312.1990.tb00839.x)
+Endler 1989, [On the measurement and classification of colour in studies of animal colour patterns](http://dx.doi.org/10.1111/j.1095-8312.1990.tb00839.x)
 
-Endler 2012, [A framework for analysing colour pattern geometry: adjacent colours](dx/doi.org/10.1111/j.1095-8312.2012.01937.x)
+Endler 2012, [A framework for analysing colour pattern geometry: adjacent colours](http://dx/doi.org/10.1111/j.1095-8312.2012.01937.x)
 
-Endler & Mielke 2005, [Comparing entire colour patterns as birds see them](dx.doi.org/10.1111/j.1095-8312.2005.00540.x)
+Endler & Mielke 2005, [Comparing entire colour patterns as birds see them](http://dx.doi.org/10.1111/j.1095-8312.2005.00540.x)
 
-Garcia et al. 2014, [Flower colours through the lens: quantitative measurement with visible and ultraviolet digital photography](dx.doi.org/10.1371/journal.pone.0096646)
+Garcia et al. 2014, [Flower colours through the lens: quantitative measurement with visible and ultraviolet digital photography](http://dx.doi.org/10.1371/journal.pone.0096646)
 
 Gerald et al. 2001 [Formal method for objective assessment of primate color](http://onlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au/doi/10.1002/1098-2345%28200102%2953:2%3C79::AID-AJP3%3E3.0.CO;2-N/abstract)
 
-Grill & Rush 2000, [Analysing spectral data: comparison and application of two techniques](dx.doi.org/10.1006/bij1.1999.0360)
+Grill & Rush 2000, [Analysing spectral data: comparison and application of two techniques](http://dx.doi.org/10.1006/bij1.1999.0360)
 
 Govardovskii et al. 2000, [In search of the visual pigment template](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=55091&fileId=S0952523800174036)
 
