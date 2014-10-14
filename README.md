@@ -56,7 +56,7 @@ Kelber 1999, [Ovipositing butterflies use a red receptor to see green](http://je
 
 Kelber 2001, [Receptor based models for spontaneous colour choices in flies and butterflies](dx.doi.org/10.1046/j.1570-7458.2001.00822.x)
 
-Kelber et al. 2003, [Animal colour vision ± behavioural tests and physiological concepts](dx.doi.org/10.1017}S1464793102005985)
+Kelber et al. 2003, [Animal colour vision: behavioural tests and physiological concepts](dx.doi.org/10.1017}S1464793102005985)
 
 Kelber & Osorio 2009, [From spectral information to animal colour vision: experiments and concepts](dx.doi.org/10.1098/rspb.2009.2118)
 
@@ -88,7 +88,7 @@ Stoddard & Stevens 2010, [Avian vision and the evolution of egg color mimicry in
 
 Stoddard et al. 2014, [Pattern recognition algorithm reveals how birds evolve individual egg pattern signatures](dx.doi.org/10.1038/ncomms5117)
 
-Strachan et al. 1990, [Calibration of a video camera digitising system in the CIE L * u * v colour space](dx.doi.org/10.1016/0167-8655(90)90096-K)
+Strachan et al. 1990, [Calibration of a video camera digitising system in the CIE (L*u*v) colour space](dx.doi.org/10.1016/0167-8655(90)90096-K)
 
 Taylor et al. 2013, [Distance transform: a tool for the study of animal colour patterns](dx.doi.org/10.1111/2041-210X.12063)
 
