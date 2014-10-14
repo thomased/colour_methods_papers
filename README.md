@@ -88,6 +88,10 @@ Pike 2012, [Generalised chromaticity diagrams for animals with n-chromatic colou
 
 Stevens et al. 2007, [Using digital photography to study animal coloration](http://dx.doi.org/10.1111/j.1095-8312.2007.00725.x)
 
+Stevens et al. 2009, [Studying primate color: towards visual system-dependent methods](http://dx.doi.org/10.1007/s10764-009-9356-z)
+
+Stevens 2011, [Avian vision and egg colouration: concepts and measurements](http://dx.doi.org/10.3184/175815511X13207790177958)
+
 Stoddard & Prum 2008, [Evolution of avian plumage color in a tetrahedral color space: a phylogenetic analysis of new world buntings](http://dx.doi.org/10.1086/587526)
 
 Stoddard & Stevens 2010, [Avian vision and the evolution of egg color mimicry in the common cuckoo](http://dx.doi.org/10.1111/j.1558-5646.2011.01262.x)
@@ -99,6 +103,8 @@ Stokman et al. 2000, [Color measurement by imaging spectrometry](http://dx.doi.o
 Strachan et al. 1990, [Calibration of a video camera digitising system in the CIE (L*u*v) colour space](http://dx.doi.org/10.1016/0167-8655(90)90096-K)
 
 Taylor et al. 2013, [Distance transform: a tool for the study of animal colour patterns](http://dx.doi.org/10.1111/2041-210X.12063)
+
+Troje 1993, [Spectral categories in the learning behaviour of Blowflies](http://www.biomotionlab.ca/Text/troje_93.pdf)
 
 van Hateren 1993, [Spatial, temporal and spectral pre-processing for colour vision](http://dx.doi.org/10.1098/rspb.1993.0009)
 
