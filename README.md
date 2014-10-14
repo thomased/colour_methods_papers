@@ -1,6 +1,6 @@
 ## Papers on methods for analysing colour in nature
 
-The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. Suggestions welcome via twitter (@tomedwhite, #colsci), email, pull request, etc.  
+The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. Suggestions welcome via twitter (@tomedwhite, #colsci), email, pull request, etc. I'd love to dump pdf's of all these in a folder here but, you know, that's illegal. If you can't get hold of something, I can probably pass it along.
 
 Akkaynak 2014, [Use of spectroscopy for assessment of color discrimination in animal vision](dx.doi.org/10.1364/JOSAA.31.000A27)
 
