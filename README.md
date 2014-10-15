@@ -1,6 +1,6 @@
 ## Papers on methods for analysing colour in nature
 
-The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. Suggestions welcome via twitter (@tomedwhite, #colsci), email, pull request, etc. I'd love to dump pdf's of all these in a folder here but, you know, that's illegal. If you can't get hold of something, I can probably pass it along.
+The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. Suggestions welcome via twitter ([@tomedwhite](www.twitter.com/tomedwhite), #colsci), email, pull request, etc. I'd love to dump pdf's of all these in a folder here but, you know, that's illegal. If you can't get hold of something, I can probably pass it along.
 
 Akkaynak 2014, [Use of spectroscopy for assessment of color discrimination in animal vision](http://dx.doi.org/10.1364/JOSAA.31.000A27)
 
@@ -41,6 +41,8 @@ Garcia et al. 2014, [Flower colours through the lens: quantitative measurement w
 Gerald et al. 2001 [Formal method for objective assessment of primate color](http://onlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au/doi/10.1002/1098-2345%28200102%2953:2%3C79::AID-AJP3%3E3.0.CO;2-N/abstract)
 
 Grill & Rush 2000, [Analysing spectral data: comparison and application of two techniques](http://dx.doi.org/10.1006/bij1.1999.0360)
+
+Goldsmith 1990,[Optimization, constraint, and history in the evolution of eyes](http://dx.doi.org/10.1086/416840)
 
 Govardovskii et al. 2000, [In search of the visual pigment template](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=55091&fileId=S0952523800174036)
 
