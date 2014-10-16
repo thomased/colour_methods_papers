@@ -38,11 +38,11 @@ Endler & Mielke 2005, [Comparing entire colour patterns as birds see them](http:
 
 Garcia et al. 2014, [Flower colours through the lens: quantitative measurement with visible and ultraviolet digital photography](http://dx.doi.org/10.1371/journal.pone.0096646)
 
-Gerald et al. 2001 [Formal method for objective assessment of primate color](http://onlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au/doi/10.1002/1098-2345%28200102%2953:2%3C79::AID-AJP3%3E3.0.CO;2-N/abstract)
+Gerald et al. 2001, [Formal method for objective assessment of primate color](http://onlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au/doi/10.1002/1098-2345%28200102%2953:2%3C79::AID-AJP3%3E3.0.CO;2-N/abstract)
 
 Grill & Rush 2000, [Analysing spectral data: comparison and application of two techniques](http://dx.doi.org/10.1006/bij1.1999.0360)
 
-Goldsmith 1990,[Optimization, constraint, and history in the evolution of eyes](http://dx.doi.org/10.1086/416840)
+Goldsmith 1990, [Optimization, constraint, and history in the evolution of eyes](http://dx.doi.org/10.1086/416840)
 
 Govardovskii et al. 2000, [In search of the visual pigment template](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=55091&fileId=S0952523800174036)
 
@@ -67,6 +67,8 @@ Kelber 2001, [Receptor based models for spontaneous colour choices in flies and 
 Kelber et al. 2003, [Animal colour vision: behavioural tests and physiological concepts](http://dx.doi.org/10.1017}S1464793102005985)
 
 Kelber & Osorio 2009, [From spectral information to animal colour vision: experiments and concepts](http://dx.doi.org/10.1098/rspb.2009.2118)
+
+Kemp et al. 2008, [Ornamental evolution in Trinidadian guppies (Poecilia reticulata): insights from sensory processing-based analyses of entire colour patterns](http://dx.doi.org/10.1111/j.1095-8312.2008.01112.x)
 
 Lehnert et al. 2011, [A new method for quantifying color of insects](http://dx.doi.org/10.1653/024.094.0212)
 
