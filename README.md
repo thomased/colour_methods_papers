@@ -1,6 +1,6 @@
 ## Papers on methods for analysing colour in nature
 
-The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. Suggestions welcome via twitter ([@tomedwhite](http://www.twitter.com/tomedwhite), #colsci), email, pull request, etc. I'd love to dump pdf's of all these in a folder here but, you know, that's illegal. If you can't get hold of something, I can probably pass it along.
+The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. It may be missing a significant amount of human-focused (CIE) work, because that literature is vast. Suggestions welcome via twitter ([@tomedwhite](http://www.twitter.com/tomedwhite), #colsci), email, pull request, etc. I'd love to dump pdf's of all these in a folder here but, you know, that's illegal. If you can't get hold of something, I can probably pass it along.
 
 Akkaynak 2014, [Use of spectroscopy for assessment of color discrimination in animal vision](http://dx.doi.org/10.1364/JOSAA.31.000A27)
 
@@ -109,6 +109,8 @@ Stokman et al. 2000, [Color measurement by imaging spectrometry](http://dx.doi.o
 Strachan et al. 1990, [Calibration of a video camera digitising system in the CIE (L*u*v) colour space](http://dx.doi.org/10.1016/0167-8655(90)90096-K)
 
 Taylor et al. 2013, [Distance transform: a tool for the study of animal colour patterns](http://dx.doi.org/10.1111/2041-210X.12063)
+
+Tkalcic et al. 2003, [Colour spaces: perceptual, historical and applicational background](http://dx.doi.org/10.1109/EURCON.2003.1248032)
 
 Troje 1993, [Spectral categories in the learning behaviour of Blowflies](http://www.biomotionlab.ca/Text/troje_93.pdf)
 
