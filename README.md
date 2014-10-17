@@ -18,11 +18,15 @@ Burnham et al. 1957, [Prediction of color appearance with different adaptation i
 
 Brandt & Vorobyev 1997, [Metric analysis of threshold spectral sensitivity in the honeybee](http://dx.doi.org/10.1016/S0042-6989(96)00195-2)
 
+Cassey et al. 2012, [Sources of variation in reflectance spectrophotometric data: a quantitative analysis using avian eggshell colours](http://dx.doi.org/10.1111/j.2041-210X.2011.00152.x)
+
 Chittka 1992, [The colour hexagon: a chromaticity diagram based on photoreceptor excitations as a generalized representation of colour opponency](http://dx.doi.org/10.1007/BF00199331)
 
 Chittka et al. 1992, [Opponent color coding is a universal strategy to evaluate the photoreceptor inputs in Hymenoptera](http://dx.doi.org/10.1007/BF00199332)
 
 Chiao et al. 2009, [Visualization of the spatial and spectral signals of orb-weaving spiders, Nephila pilipes, through the eyes of a honeybee](http://jeb.biologists.org/content/212/14/2269.abstract)
+
+Cuthill et al. 1999, [Plumage reflectance and the objective assessment of avian sexual dichromatism](http://dx.doi.org/10.1086/303160)
 
 Dartnall 1953, [The interpretation of spectral sensitivity curves](http://bmb.oxfordjournals.org/content/9/1/24.extract)
 
