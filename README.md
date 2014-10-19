@@ -1,10 +1,12 @@
 ## Papers on methods for analysing colour in nature
 
-The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. It may be missing a significant amount of human-focused (CIE) work, because that literature is vast. Suggestions welcome via twitter ([@tomedwhite](http://www.twitter.com/tomedwhite), #colsci), email, pull request, etc. I'd love to dump pdf's of all these in a folder here but, you know, that's illegal. If you can't get hold of something, I can probably pass it along.
+The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. It may be missing a chunk of human-focused (CIE) work, because that literature is vast. Suggestions welcome via twitter ([@tomedwhite](http://www.twitter.com/tomedwhite), #colsci), email, pull request, etc. I'd love to dump pdf's of all these in a folder here but, you know, that's illegal. If you can't get hold of something, I can probably pass it along.
 
 Akkaynak 2014, [Use of spectroscopy for assessment of color discrimination in animal vision](http://dx.doi.org/10.1364/JOSAA.31.000A27)
 
 Allen & Higham 2013, [Analysing visual signals as visual scenes](http://dx.doi.org/10.1002/ajp.22129)
+
+Armenta et al. 2008, [Quantifying avian sexual dichromatism: a comparison of methods](http://dx.doi.org/10.1242/jeb.013094.)
 
 Backhaus 1991, [Color opponent coding in the visual system of the honeybee](http://dx.doi.org/10.1016/0042-6989(91)90059-E)
 
@@ -96,11 +98,11 @@ Pike 2012, [Preserving perceptual distances in chromaticity diagrams](http://dx.
 
 Pike 2012, [Generalised chromaticity diagrams for animals with n-chromatic colour vision](http://dx.doi.org/10.1007/s10905-011-9296-2)
 
+Stevens 2011, [Avian vision and egg colouration: concepts and measurements](http://dx.doi.org/10.3184/175815511X13207790177958)
+
 Stevens et al. 2007, [Using digital photography to study animal coloration](http://dx.doi.org/10.1111/j.1095-8312.2007.00725.x)
 
 Stevens et al. 2009, [Studying primate color: towards visual system-dependent methods](http://dx.doi.org/10.1007/s10764-009-9356-z)
-
-Stevens 2011, [Avian vision and egg colouration: concepts and measurements](http://dx.doi.org/10.3184/175815511X13207790177958)
 
 Stoddard & Prum 2008, [Evolution of avian plumage color in a tetrahedral color space: a phylogenetic analysis of new world buntings](http://dx.doi.org/10.1086/587526)
 
