@@ -30,6 +30,8 @@ Chiao et al. 2009, [Visualization of the spatial and spectral signals of orb-wea
 
 Cuthill et al. 1999, [Plumage reflectance and the objective assessment of avian sexual dichromatism](http://dx.doi.org/10.1086/303160)
 
+Dalrymple et al. 2014, [Roses are red, violets are blue – so how much replication should you do? An assessment of variation in the colour of flowers and birds](http://dx.doi.org/10.1111/bij.12402)
+
 Dartnall 1953, [The interpretation of spectral sensitivity curves](http://bmb.oxfordjournals.org/content/9/1/24.extract)
 
 De Valois & De Valois 1993, [A multi-stage color model](http://dx.doi.org/10.1016/0042-6989(93)90240-W)
