@@ -1,6 +1,6 @@
 ## Papers on methods for analysing colour in nature
 
-The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. It may be missing a chunk of human-focused (CIE) work, because that literature is vast. Suggestions welcome via twitter ([@tomedwhite](http://www.twitter.com/tomedwhite), #colsci), email, pull request, etc. I'd love to dump pdf's of all these in a folder here but, you know, that's illegal. If you can't get hold of something, I can probably pass it along.
+The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. It may be missing a chunk of human-focused (CIE) work, because that literature is vast. Suggestions welcome via twitter ([@tomedwhite](http://www.twitter.com/tomedwhite), #colsci), email, pull request, etc. If you can't get hold of something, I can probably pass it along.
 
 Akkaynak 2014, [Use of spectroscopy for assessment of color discrimination in animal vision](http://dx.doi.org/10.1364/JOSAA.31.000A27)
 
@@ -99,6 +99,10 @@ Pike 2011, [Using digital cameras to investigate animal colouration: estimating 
 Pike 2012, [Preserving perceptual distances in chromaticity diagrams](http://dx.doi.org/10.1093/beheco/ars018)
 
 Pike 2012, [Generalised chromaticity diagrams for animals with n-chromatic colour vision](http://dx.doi.org/10.1007/s10905-011-9296-2)
+
+Renoult et al. 2009, [When assumptions on visual system evolution matter: nestling colouration and parental visual performance in birds](http://dx.doi.org/10.1111/j.1420-9101.2009.01885.x)
+
+Renoult et al. 2013, [A novel framework to study colour signalling to multiple species](http://dx.doi.org/10.1111/1365-2435.12086)
 
 Stevens 2011, [Avian vision and egg colouration: concepts and measurements](http://dx.doi.org/10.3184/175815511X13207790177958)
 
