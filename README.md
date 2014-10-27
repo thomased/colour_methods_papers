@@ -104,6 +104,8 @@ Renoult et al. 2009, [When assumptions on visual system evolution matter: nestli
 
 Renoult et al. 2013, [A novel framework to study colour signalling to multiple species](http://dx.doi.org/10.1111/1365-2435.12086)
 
+Smith 2014, [Quantifying color variation: improved formulas for calculating hue with segment classification](http://dx.doi.org/10.3732/apps.1300088)
+
 Stevens 2011, [Avian vision and egg colouration: concepts and measurements](http://dx.doi.org/10.3184/175815511X13207790177958)
 
 Stevens et al. 2007, [Using digital photography to study animal coloration](http://dx.doi.org/10.1111/j.1095-8312.2007.00725.x)
