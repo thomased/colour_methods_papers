@@ -88,6 +88,8 @@ Maia et al. 2012, [pavo: an R package for the analysis, visualization and organi
 
 Maloney & Wandell 1986, [Color constancy: a method for recovering surface spectral reflectance](http://dx.doi.org/10.1364/JOSAA.3.000029)
 
+Meadows et al. 2011, [Quantifying iridescent coloration in animals: a method for improving repeatability](http://dx.doi.org/10.1007/s00265-010-1135-5)
+
 McLaren 2008, [The development of the CIE 1976 (L* a* b*) uniform colour space and colour-difference formula](http://dx.doi.org/10.1111/j.1478-4408.1976.tb03301.x)
 
 Osorio et al. 2004, [Detection of fruit and the selection of primate visual pigments for color vision](http://dx.doi.org/10.1086/425332)
@@ -103,6 +105,8 @@ Pike 2012, [Generalised chromaticity diagrams for animals with n-chromatic colou
 Renoult et al. 2009, [When assumptions on visual system evolution matter: nestling colouration and parental visual performance in birds](http://dx.doi.org/10.1111/j.1420-9101.2009.01885.x)
 
 Renoult et al. 2013, [A novel framework to study colour signalling to multiple species](http://dx.doi.org/10.1111/1365-2435.12086)
+
+Santos et al. 2007, [Strong effects of various incidence and observation angles on spectrometric assessment of plumage colouration in birds](http://dx.doi.org/10.1007/s00265-007-0373-7)
 
 Smith 2014, [Quantifying color variation: improved formulas for calculating hue with segment classification](http://dx.doi.org/10.3732/apps.1300088)
 
