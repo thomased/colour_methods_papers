@@ -78,6 +78,8 @@ Kelber & Osorio 2009, [From spectral information to animal colour vision: experi
 
 Kemp et al. 2008, [Ornamental evolution in Trinidadian guppies (Poecilia reticulata): insights from sensory processing-based analyses of entire colour patterns](http://dx.doi.org/10.1111/j.1095-8312.2008.01112.x)
 
+Lamb 1995, [Photoreceptor spectral sensitivities: Common shape in the long-wavelength region](http://dx.doi.org/10.1016/0042-6989(95)00114-F)
+
 Lehnert et al. 2011, [A new method for quantifying color of insects](http://dx.doi.org/10.1653/024.094.0212)
 
 Lind & Kelber 2009, [Avian colour vision: effects of variation in receptor sensitivity and noise data on model predictions as compared to behavioural results](http://dx.doi.org/10.1016/j.visres.2009.05.003)
