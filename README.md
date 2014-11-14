@@ -1,4 +1,4 @@
-## Papers on methods for analysing colour in nature
+	## Papers on methods for analysing colour in nature
 
 The list is intended to be inclusive in that it'll contain reviews, and empirical papers that offer extensions, novel applications, or tests of assumptions. It may be missing a chunk of human-focused (CIE) work, because that literature is vast. Suggestions welcome via twitter ([@tomedwhite](http://www.twitter.com/tomedwhite), #colsci), email, pull request, etc. If you can't get hold of something, I can probably pass it along.
 
@@ -35,6 +35,8 @@ Dalrymple et al. 2014, [Roses are red, violets are blue – so how much replicat
 Dartnall 1953, [The interpretation of spectral sensitivity curves](http://bmb.oxfordjournals.org/content/9/1/24.extract)
 
 De Valois & De Valois 1993, [A multi-stage color model](http://dx.doi.org/10.1016/0042-6989(93)90240-W)
+
+Delhey et al. 2014, [A practical framework to analyze variation in animal colors using visual models](http://dx.doi.org/10.1093/beheco/aru198)
 
 Dyer 2012, [The mysterious cognitive abilities of bees: why models of visual processing need to consider experience and individual differences in animal performance](http://dx.doi.org/10.1242/jeb.038190)
 
