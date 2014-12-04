@@ -4,6 +4,8 @@ The list is intended to be inclusive in that it'll contain reviews, and empirica
 
 Akkaynak 2014, [Use of spectroscopy for assessment of color discrimination in animal vision](http://dx.doi.org/10.1364/JOSAA.31.000A27)
 
+Akkaynak et al. 2014, [Use of commercial off-the-shelf digital cameras for scientific data acquisition and scene-specific color calibration](http://dx.doi.org/10.1364/JOSAA.31.000312)
+
 Allen & Higham 2013, [Analysing visual signals as visual scenes](http://dx.doi.org/10.1002/ajp.22129)
 
 Armenta et al. 2008, [Quantifying avian sexual dichromatism: a comparison of methods](http://dx.doi.org/10.1242/jeb.013094.)
