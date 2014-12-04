@@ -44,7 +44,7 @@ Dyer 2012, [The mysterious cognitive abilities of bees: why models of visual pro
 
 Endler 1989, [On the measurement and classification of colour in studies of animal colour patterns](http://dx.doi.org/10.1111/j.1095-8312.1990.tb00839.x)
 
-Endler 2012, [A framework for analysing colour pattern geometry: adjacent colours](http://dx/doi.org/10.1111/j.1095-8312.2012.01937.x)
+Endler 2012, [A framework for analysing colour pattern geometry: adjacent colours](http://dx.doi.org/10.1111/j.1095-8312.2012.01937.x)
 
 Endler & Mielke 2005, [Comparing entire colour patterns as birds see them](http://dx.doi.org/10.1111/j.1095-8312.2005.00540.x)
 
