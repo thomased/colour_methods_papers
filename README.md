@@ -100,6 +100,8 @@ McLaren 2008, [The development of the CIE 1976 (L* a* b*) uniform colour space a
 
 Osorio et al. 2004, [Detection of fruit and the selection of primate visual pigments for color vision](http://dx.doi.org/10.1086/425332)
 
+Parkkinen et al. 1988, [Spectral representation of color images](http://dx.doi.org/10.1109/ICPR.1988.28405)
+
 Perex-Rodriguez et al. 2013, [Fractal geometry of a complex plumage trait reveals bird’s quality](http://dx.doi.org/10.1098/rspb.2012.2783)
 
 Pike 2011, [Using digital cameras to investigate animal colouration: estimating sensor sensitivity functions](http://dx.doi.org/10.1007/s00265-010-1097-7)
