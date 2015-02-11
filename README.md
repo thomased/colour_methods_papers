@@ -8,6 +8,8 @@ Akkaynak et al. 2014, [Use of commercial off-the-shelf digital cameras for scien
 
 Allen & Higham 2013, [Analysing visual signals as visual scenes](http://dx.doi.org/10.1002/ajp.22129)
 
+Allen & Higham 2015, [Assessing the potential information content of multicomponent visual signals: a machine learning approach](http://dx.doi.org/10.1098/rspb.2014.2284)
+
 Armenta et al. 2008, [Quantifying avian sexual dichromatism: a comparison of methods](http://dx.doi.org/10.1242/jeb.013094.)
 
 Backhaus 1991, [Color opponent coding in the visual system of the honeybee](http://dx.doi.org/10.1016/0042-6989(91)90059-E)
