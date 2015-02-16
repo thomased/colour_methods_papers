@@ -50,6 +50,8 @@ Endler 2012, [A framework for analysing colour pattern geometry: adjacent colour
 
 Endler & Mielke 2005, [Comparing entire colour patterns as birds see them](http://dx.doi.org/10.1111/j.1095-8312.2005.00540.x)
 
+Evans et al. 2010, [Age, sex and beauty: methodological dependence of age- and sex-dichromatism in the great tit Parus major](http://dx.doi.org/10.1111/j.1095-8312.2010.01548.x)
+
 Garcia et al. 2014, [Flower colours through the lens: quantitative measurement with visible and ultraviolet digital photography](http://dx.doi.org/10.1371/journal.pone.0096646)
 
 Gerald et al. 2001, [Formal method for objective assessment of primate color](http://onlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au/doi/10.1002/1098-2345%28200102%2953:2%3C79::AID-AJP3%3E3.0.CO;2-N/abstract)
