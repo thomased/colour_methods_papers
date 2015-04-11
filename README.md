@@ -152,6 +152,8 @@ van Hateren 1993, [Spatial, temporal and spectral pre-processing for colour visi
 
 Villafuerte & Negro 2002, [Digital imaging for colour measurement in ecological research](http://dx.doi.org/10.1046/j.1461-0248.1998.00034.x)
 
+Vinther 2015, [A guide to the field of palaeo colour](http://dx.doi.org/10.1002/bies.201500018)
+
 Vorobyev 2003, [Coloured oil droplets enhance colour discrimination](http://dx.doi.org/10.1098/rspb.2003.2381)
 
 Vorobyev & Osorio 1998, [Receptor noise as a determinant of colour thresholds](http://dx.doi.org/10.1098/rspb.1998.0302)
