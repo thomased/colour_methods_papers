@@ -104,6 +104,8 @@ Maloney & Wandell 1986, [Color constancy: a method for recovering surface spectr
 
 Meadows et al. 2011, [Quantifying iridescent coloration in animals: a method for improving repeatability](http://dx.doi.org/10.1007/s00265-010-1135-5)
 
+Medina et al. 2015, [Classification of peacock feather reflectance using principal component analysis similarity factors from multispectral imaging data](http://dx.doi.org/10.1364/OE.23.010198)
+
 McLaren 2008, [The development of the CIE 1976 (L* a* b*) uniform colour space and colour-difference formula](http://dx.doi.org/10.1111/j.1478-4408.1976.tb03301.x)
 
 Osorio et al. 2004, [Detection of fruit and the selection of primate visual pigments for color vision](http://dx.doi.org/10.1086/425332)
