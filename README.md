@@ -172,4 +172,6 @@ Vukusic & Stavenga 2009, [Physical methods for investigating structural colours 
 
 Wachtler et al. 2004, [Modeling color percepts of dichromats](http://dx.doi.org/10.1016/j.visres.2004.06.016)
 
+Wegmann et al. 2015, [An evaluation of different methods for assessing eggshell pigmentation and pigment concentration using great tit eggs](http://dx.doi.org/10.1111/jav.00495)
+
 Zuk & Decruyenaere 2008, [Measuring individual variation in colour: a comparison of two techniques](http://dx.doi.org/10.1111/j.1095-8312.1994.tb01007.x)
