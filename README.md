@@ -56,6 +56,8 @@ Evans & Sheldon 2015, [A spectral perspective on the quantitative genetics of ca
 
 Garcia et al. 2014, [Flower colours through the lens: quantitative measurement with visible and ultraviolet digital photography](http://dx.doi.org/10.1371/journal.pone.0096646)
 
+Garcia et al. 2015, [Differentiating biological colours with few and many sensors: spectral reconstruction with RGB and hyperspectral cameras](http://dx.doi.org/10.1371/journal.pone.0125817)
+
 Gerald et al. 2001, [Formal method for objective assessment of primate color](http://onlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au/doi/10.1002/1098-2345%28200102%2953:2%3C79::AID-AJP3%3E3.0.CO;2-N/abstract)
 
 Grill & Rush 2000, [Analysing spectral data: comparison and application of two techniques](http://dx.doi.org/10.1006/bij1.1999.0360)
