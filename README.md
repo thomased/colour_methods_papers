@@ -76,6 +76,8 @@ Hurvich & Jameson 1955, [Some quantitative aspects of an opponent-colors theory.
 
 Hurvich & Jameson 1956, [Some quantitative aspects of an opponent-colors theory. IV. A psychological color specification system](http://dx.doi.org/10.1364/JOSA.46.000416)
 
+Igic et al. 2015, [Using 3D printed eggs to examine the egg-rejection behaviour of wild birds](http://dx.doi.org/10.7717/peerj.965)
+
 Jameson & Hurvich 1955, [Some quantitative aspects of an opponent-colors theory. I. Chromatic responses and spectral saturation](http://dx.doi.org/10.1364/JOSA.45.000546)
 
 Jameson & Hurvich 1956, [Some quantitative aspects of an opponent-colors theory. III. Changes in brightness, saturation, and hue with chromatic adaptation](http://dx.doi.org/10.1364/JOSA.46.000405)
