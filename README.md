@@ -26,6 +26,8 @@ Brandt & Vorobyev 1997, [Metric analysis of threshold spectral sensitivity in th
 
 Cassey et al. 2012, [Sources of variation in reflectance spectrophotometric data: a quantitative analysis using avian eggshell colours](http://dx.doi.org/10.1111/j.2041-210X.2011.00152.x)
 
+Cardoso & Gomes 2015 [Using reflectance ratios to study animal coloration](http://dx.doi.org/10.1007/s11692-015-9328-5)
+
 Chittka 1992, [The colour hexagon: a chromaticity diagram based on photoreceptor excitations as a generalized representation of colour opponency](http://dx.doi.org/10.1007/BF00199331)
 
 Chittka et al. 1992, [Opponent color coding is a universal strategy to evaluate the photoreceptor inputs in Hymenoptera](http://dx.doi.org/10.1007/BF00199332)
