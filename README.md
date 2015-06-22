@@ -34,6 +34,8 @@ Chittka et al. 1992, [Opponent color coding is a universal strategy to evaluate 
 
 Chiao et al. 2009, [Visualization of the spatial and spectral signals of orb-weaving spiders, Nephila pilipes, through the eyes of a honeybee](http://jeb.biologists.org/content/212/14/2269.abstract)
 
+Cole, et al. 1993, [Detection mechanisms in L-, M-, and S-cone contrast space](http://dx.doi.org/10.1364/JOSAA.10.000038)
+
 Cuthill et al. 1999, [Plumage reflectance and the objective assessment of avian sexual dichromatism](http://dx.doi.org/10.1086/303160)
 
 Dalrymple et al. 2014, [Roses are red, violets are blue – so how much replication should you do? An assessment of variation in the colour of flowers and birds](http://dx.doi.org/10.1111/bij.12402)
