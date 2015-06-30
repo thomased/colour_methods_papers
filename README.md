@@ -160,6 +160,8 @@ Strachan et al. 1990, [Calibration of a video camera digitising system in the CI
 
 Taylor et al. 2013, [Distance transform: a tool for the study of animal colour patterns](http://dx.doi.org/10.1111/2041-210X.12063)
 
+Thomas et al. 2015, [Analysing avian eggshell pigments with Raman spectroscopy](http://dx.doi.org/10.1242/​jeb.124917)
+
 Tkalcic et al. 2003, [Colour spaces: perceptual, historical and applicational background](http://dx.doi.org/10.1109/EURCON.2003.1248032)
 
 Troje 1993, [Spectral categories in the learning behaviour of Blowflies](http://www.biomotionlab.ca/Text/troje_93.pdf)
