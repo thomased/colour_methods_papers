@@ -76,6 +76,8 @@ Hastad & Odeen 2008, [Different ranking of avian colors predicted by modeling of
 
 Higham et al 2010, [Color signal information content and the eye of the beholder: a case study in the rhesus macaque](http://dx.doi.org/10.1093/beheco/arq047)
 
+Hong et al. 2000, [A study of digital camera colorimetric characterization based on polynomial modeling](http://onlinelibrary.wiley.com/doi/10.1002/1520-6378%28200102%2926:1%3C76::AID-COL8%3E3.0.CO;2-3/abstract)
+
 Hurvich & Jameson 1955, [Some quantitative aspects of an opponent-colors theory. II. Brightness, saturation, and hue in normal and dichromatic vision](http://dx.doi.org/10.1364/JOSA.45.000602)
 
 Hurvich & Jameson 1956, [Some quantitative aspects of an opponent-colors theory. IV. A psychological color specification system](http://dx.doi.org/10.1364/JOSA.46.000416)
