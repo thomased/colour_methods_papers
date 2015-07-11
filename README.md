@@ -168,6 +168,8 @@ Tkalcic et al. 2003, [Colour spaces: perceptual, historical and applicational ba
 
 Troje 1993, [Spectral categories in the learning behaviour of Blowflies](http://www.biomotionlab.ca/Text/troje_93.pdf)
 
+Troscianko & Stevens 2015, [Image Calibration and Analysis Toolbox – a free software suite for objectively measuring reflectance, colour and pattern](http://dx.doi.org/10.1111/2041-210X.12439)
+
 van Hateren 1993, [Spatial, temporal and spectral pre-processing for colour vision](http://dx.doi.org/10.1098/rspb.1993.0009)
 
 Villafuerte & Negro 2002, [Digital imaging for colour measurement in ecological research](http://dx.doi.org/10.1046/j.1461-0248.1998.00034.x)
