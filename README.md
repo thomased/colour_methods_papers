@@ -170,7 +170,9 @@ Troje 1993, [Spectral categories in the learning behaviour of Blowflies](http://
 
 Troscianko & Stevens 2015, [Image Calibration and Analysis Toolbox – a free software suite for objectively measuring reflectance, colour and pattern](http://dx.doi.org/10.1111/2041-210X.12439)
 
-van Hateren 1993, [Spatial, temporal and spectral pre-processing for colour vision](http://dx.doi.org/10.1098/rspb.1993.0009)
+Van Hateren 1993, [Spatial, temporal and spectral pre-processing for colour vision](http://dx.doi.org/10.1098/rspb.1993.0009)
+
+Van Wijk et al. 2015, [A reliable technique to quantify the individual variability of iridescence in birds](http://dx.doi.org/10.1111/jav.00750) 
 
 Villafuerte & Negro 2002, [Digital imaging for colour measurement in ecological research](http://dx.doi.org/10.1046/j.1461-0248.1998.00034.x)
 
@@ -191,5 +193,7 @@ Wachtler et al. 2004, [Modeling color percepts of dichromats](http://dx.doi.org/
 Wegmann et al. 2015, [An evaluation of different methods for assessing eggshell pigmentation and pigment concentration using great tit eggs](http://dx.doi.org/10.1111/jav.00495)
 
 White et al. 2015, [Reproducible research in the study of biological coloration](http://dx.doi.org/10.1016/j.anbehav.2015.05.007)
+
+Wilkins et al. 2015, [Multimodal signalling in the North American barn swallow: a phenotype network approach](http://dx.doi.org/10.1098/rspb.2015.1574)
 
 Zuk & Decruyenaere 2008, [Measuring individual variation in colour: a comparison of two techniques](http://dx.doi.org/10.1111/j.1095-8312.1994.tb01007.x)
