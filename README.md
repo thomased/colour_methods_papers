@@ -140,6 +140,8 @@ Renoult et al. 2013, [A novel framework to study colour signalling to multiple s
 
 Renoult et al. 2015, [Colour spaces in ecology and evolutionary biology](http://dx.doi.org/10.1111/brv.12230)
 
+Romney & Indow 2002, [Estimating physical reflectance spectra from human color-matching experiments](http://dx.doi.org/10.1073.pnas.222558899)
+
 Santer 2014, [A colour opponent model that explains tsetse fly attraction to visual baits and can be used to investigate more efficacious bait materials](http://dx.doi.org/10.1371/journal.pntd.0003360)
 
 Santos et al. 2007, [Strong effects of various incidence and observation angles on spectrometric assessment of plumage colouration in birds](http://dx.doi.org/10.1007/s00265-007-0373-7)
