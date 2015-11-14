@@ -184,9 +184,13 @@ Vinther 2015, [A guide to the field of palaeo colour](http://dx.doi.org/10.1002/
 
 Vorobyev 2003, [Coloured oil droplets enhance colour discrimination](http://dx.doi.org/10.1098/rspb.2003.2381)
 
+Vorobyev et al. 1997 [Flowers through insect eyes](http://dx.doi.org/10.1080/07929978.1997.10676676)
+
 Vorobyev & Osorio 1998, [Receptor noise as a determinant of colour thresholds](http://dx.doi.org/10.1098/rspb.1998.0302)
 
 Vorobyev et al. 1998, [Tetrachromacy, oil droplets and bird plumage colours](http://dx.doi.org/10.1007/s003590050286)
+
+Vorobyev et al., 1999, [Colourful objects through animal eyes](http://www.fresnel.fr/perso/wagner/files_optPhys/animal_eye_spectral_sensitivity.pdf)
 
 Vorobyev et al. 2001, [Colour thresholds and receptor noise: behaviour and physiology compared](http://dx.doi.org/10.1016/S0042-6989(00)00288-1)
 
