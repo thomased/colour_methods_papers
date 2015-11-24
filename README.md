@@ -134,6 +134,8 @@ Pike 2012, [Preserving perceptual distances in chromaticity diagrams](http://dx.
 
 Pike 2012, [Generalised chromaticity diagrams for animals with n-chromatic colour vision](http://dx.doi.org/10.1007/s10905-011-9296-2)
 
+Pike 2015, [Modelling eggshell maculation](http://dx.doi.org/10.3184/175815515X14455297177037)
+
 Renoult et al. 2009, [When assumptions on visual system evolution matter: nestling colouration and parental visual performance in birds](http://dx.doi.org/10.1111/j.1420-9101.2009.01885.x)
 
 Renoult et al. 2013, [A novel framework to study colour signalling to multiple species](http://dx.doi.org/10.1111/1365-2435.12086)
