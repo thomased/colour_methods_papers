@@ -58,6 +58,8 @@ Evans et al. 2010, [Age, sex and beauty: methodological dependence of age- and s
 
 Evans & Sheldon 2015, [A spectral perspective on the quantitative genetics of carotenoid colouration](http://dx.doi.org/10.1111/1365-2435.12297)
 
+Fleishman et al. 2016, [Perceptual distance between colored stimuli in the lizard Anolis sagrei: comparing visual system models to empirical results](http://dx.doi.org/dx.doi.org/10.1007/s00265-016-2072-8)
+
 Garcia et al. 2014, [Flower colours through the lens: quantitative measurement with visible and ultraviolet digital photography](http://dx.doi.org/10.1371/journal.pone.0096646)
 
 Garcia et al. 2015, [Differentiating biological colours with few and many sensors: spectral reconstruction with RGB and hyperspectral cameras](http://dx.doi.org/10.1371/journal.pone.0125817)
