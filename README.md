@@ -92,6 +92,8 @@ Jameson & Hurvich 1956, [Some quantitative aspects of an opponent-colors theory.
 
 Jameson & Hurvich 1964, [Theory of brightness and color contrast in human vision](http://dx.doi.org/10.1016/0042-6989(64)90037-9)
 
+Johnsen 2016, [How to measure color using spectrometers and calibrated photograph](http://dx.doi.org/10.1242/jeb.124008)
+
 Judd 1935, [A maxwell triangle yielding uniform chromaticity scales](http://nvlpubs.nist.gov/nistpubs/jres/14/jresv14n1p41_A1b.pdf)
 
 Kelber 1999, [Ovipositing butterflies use a red receptor to see green](http://jeb.biologists.org/content/202/19/2619)
