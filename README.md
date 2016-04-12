@@ -184,6 +184,8 @@ Van Hateren 1993, [Spatial, temporal and spectral pre-processing for colour visi
 
 Van Wijk et al. 2015, [A reliable technique to quantify the individual variability of iridescence in birds](http://dx.doi.org/10.1111/jav.00750) 
 
+Vaquero-Alba et al. 2016, [A quantitative analysis of objective feather color assessment: Measurements in the laboratory do not reflect true plumage color](http://dx.doi.org/10.1642/AUK-16-19.1)
+
 Villafuerte & Negro 2002, [Digital imaging for colour measurement in ecological research](http://dx.doi.org/10.1046/j.1461-0248.1998.00034.x)
 
 Vinther 2015, [A guide to the field of palaeo colour](http://dx.doi.org/10.1002/bies.201500018)
