@@ -120,6 +120,8 @@ Maia et al. 2012, [pavo: an R package for the analysis, visualization and organi
 
 Maloney & Wandell 1986, [Color constancy: a method for recovering surface spectral reflectance](http://dx.doi.org/10.1364/JOSAA.3.000029)
 
+Marin-Franch & Foster 2013, [Estimating information from image colors: an application to digital cameras and natural scenes](http://dx.doi.org/10.1109/TPAMI.2012.78)
+
 Meadows et al. 2011, [Quantifying iridescent coloration in animals: a method for improving repeatability](http://dx.doi.org/10.1007/s00265-010-1135-5)
 
 Medina et al. 2015, [Classification of peacock feather reflectance using principal component analysis similarity factors from multispectral imaging data](http://dx.doi.org/10.1364/OE.23.010198)
