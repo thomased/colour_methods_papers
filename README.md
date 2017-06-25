@@ -20,9 +20,9 @@ Barnard & Funt 2002, [Camera characterization for color research](http://dx.doi.
 
 Bennett et al. 1994, [Sexual selection and the mismeasure of color](http://dx.doi.org/10.1086/285711)
 
-Burnham et al. 1957, [Prediction of color appearance with different adaptation illuminations](http://dx.doi.org/10.1364/JOSA.47.000035)
-
 Brandt & Vorobyev 1997, [Metric analysis of threshold spectral sensitivity in the honeybee](http://dx.doi.org/10.1016/S0042-6989(96)00195-2)
+
+Burnham et al. 1957, [Prediction of color appearance with different adaptation illuminations](http://dx.doi.org/10.1364/JOSA.47.000035)
 
 Cassey et al. 2012, [Sources of variation in reflectance spectrophotometric data: a quantitative analysis using avian eggshell colours](http://dx.doi.org/10.1111/j.2041-210X.2011.00152.x)
 
@@ -66,11 +66,11 @@ Garcia et al. 2015, [Differentiating biological colours with few and many sensor
 
 Gerald et al. 2001, [Formal method for objective assessment of primate color](http://onlinelibrary.wiley.com.simsrad.net.ocs.mq.edu.au/doi/10.1002/1098-2345%28200102%2953:2%3C79::AID-AJP3%3E3.0.CO;2-N/abstract)
 
-Grill & Rush 2000, [Analysing spectral data: comparison and application of two techniques](http://dx.doi.org/10.1006/bij1.1999.0360)
-
 Goldsmith 1990, [Optimization, constraint, and history in the evolution of eyes](http://dx.doi.org/10.1086/416840)
 
 Govardovskii et al. 2000, [In search of the visual pigment template](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=55091&fileId=S0952523800174036)
+
+Grill & Rush 2000, [Analysing spectral data: comparison and application of two techniques](http://dx.doi.org/10.1006/bij1.1999.0360)
 
 Hart & Vorobyev 2005, [Modelling oil droplet absorption spectra and spectral sensitivities of bird cone photoreceptors](http://dx.doi.org/10.1007/s00359-004-0595-3)
 
@@ -122,11 +122,11 @@ Maloney & Wandell 1986, [Color constancy: a method for recovering surface spectr
 
 Marin-Franch & Foster 2013, [Estimating information from image colors: an application to digital cameras and natural scenes](http://dx.doi.org/10.1109/TPAMI.2012.78)
 
+McLaren 2008, [The development of the CIE 1976 (L* a* b*) uniform colour space and colour-difference formula](http://dx.doi.org/10.1111/j.1478-4408.1976.tb03301.x)
+
 Meadows et al. 2011, [Quantifying iridescent coloration in animals: a method for improving repeatability](http://dx.doi.org/10.1007/s00265-010-1135-5)
 
 Medina et al. 2015, [Classification of peacock feather reflectance using principal component analysis similarity factors from multispectral imaging data](http://dx.doi.org/10.1364/OE.23.010198)
-
-McLaren 2008, [The development of the CIE 1976 (L* a* b*) uniform colour space and colour-difference formula](http://dx.doi.org/10.1111/j.1478-4408.1976.tb03301.x)
 
 Osorio et al. 2004, [Detection of fruit and the selection of primate visual pigments for color vision](http://dx.doi.org/10.1086/425332)
 
