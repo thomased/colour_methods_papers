@@ -28,11 +28,11 @@ Cassey et al. 2012, [Sources of variation in reflectance spectrophotometric data
 
 Cardoso & Gomes 2015 [Using reflectance ratios to study animal coloration](http://dx.doi.org/10.1007/s11692-015-9328-5)
 
+Chiao et al. 2009, [Visualization of the spatial and spectral signals of orb-weaving spiders, Nephila pilipes, through the eyes of a honeybee](http://jeb.biologists.org/content/212/14/2269.abstract)
+
 Chittka 1992, [The colour hexagon: a chromaticity diagram based on photoreceptor excitations as a generalized representation of colour opponency](http://dx.doi.org/10.1007/BF00199331)
 
 Chittka et al. 1992, [Opponent color coding is a universal strategy to evaluate the photoreceptor inputs in Hymenoptera](http://dx.doi.org/10.1007/BF00199332)
-
-Chiao et al. 2009, [Visualization of the spatial and spectral signals of orb-weaving spiders, Nephila pilipes, through the eyes of a honeybee](http://jeb.biologists.org/content/212/14/2269.abstract)
 
 Cole, et al. 1993, [Detection mechanisms in L-, M-, and S-cone contrast space](http://dx.doi.org/10.1364/JOSAA.10.000038)
 
